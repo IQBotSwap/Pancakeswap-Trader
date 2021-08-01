@@ -1,7 +1,7 @@
 # Pancakeswap-trader
-IQBotSwap é um robô de negociação automatizado para a plataforma PancakeSwap. O robô é gratuito para testes por 30 dias. Após o periodo de testes se quiser continuar a usar o IQBotSwap você tem que adquirir US$100 em tokens $IQBOT anualmente.
-Experimente a auto negociação com o IQBotSwap agora!
-Acesse o site https://iqbotswap.site e faça seu cadastro e comece a fazer trader na PancakeSwap hoje mesmo e comece a Ganhar $$$.
+IQBotSwap is an automated trading robot for the PancakeSwap platform. The robot is free to trial for 30 days. 
+After the trial period if you want to continue using IQBotSwap you have to purchase $100 worth of $IQBOT tokens annually. 
+Try auto trading with IQBotSwap now! Go to https://iqbotswap.site and register and start trading at PancakeSwap today and start earning $$$.
 
 Web Site https://iqbotswap.site
 
